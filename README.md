@@ -48,3 +48,8 @@ AI-Task-Breakdown-Agent/
 ├── venv/
 ├── README.md
 └── .gitignore
+```
+
+## 🖥️ Website UI Preview
+
+![AI Task Breakdown Agent](images/ui.png)
